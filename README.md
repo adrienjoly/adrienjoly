@@ -5,7 +5,7 @@ I'm a Senior Software Engineer based in Paris, France, who loves Virtual Reality
 ### 👨🏻‍💻 About Me
 
 - 🤝 I'm available to join your team(s) as a Tech Coach and/or developer.
-- 🛠️ Between my coaching sessions, I maintain several open source projects, including [Openwhyd](https://openwhyd.org): a 10+ year old music sharing platform made with Node.js.
+- 🛠️ Between my coaching sessions, I maintain several open source projects, including [Openwhyd](https://openwhyd.org): a music sharing platform made with Node.js in 2012.
 - 🎓 I love sharing what I learn, [in articles](https://adrienjoly.com/posts), [talks](https://adrienjoly.com/talks) and [on Twitter/X](https://twitter.com/adrienjoly).
 - 🥁 I also play drums in two music bands: [Harissa and Rag Dolls](https://adrienjoly.com/music).
 
