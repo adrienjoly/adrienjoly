@@ -11,15 +11,17 @@ I'm a Senior Software Engineer based in Paris, France, who loves Virtual Reality
 
 ### 📚 Favorite Books
 
-- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around), L. David Marquet
 - [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.goodreads.com/en/book/show/35747076), Nicole Forsgren
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around), L. David Marquet
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer), Andy Hunt
+- [Shape Up: Stop Running in Circles and Ship Work that Matters](https://www.goodreads.com/book/show/50776459-shape-up), Ryan Singer
+- [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code), Michael C. Feathers
 
 ### 🛠 Favorite Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
