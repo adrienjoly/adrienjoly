@@ -28,6 +28,6 @@ I'm a Senior Software Engineer based in Paris, France, who loves Virtual Reality
 ### 🤝🏻 Connect with Me
 
 <p>
-  <a href="https://github.com/adrienjoly"><img src="https://img.shields.io/badge/-adrienjoly-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/adrienjoly"><img src="https://img.shields.io/badge/-adrienjoly-100000?style=flat&logo=twitter&logoColor=blue"></a>
   <a href="https://linkedin.com/in/adrienjoly"><img src="https://img.shields.io/badge/-adrienjoly-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
