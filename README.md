@@ -30,4 +30,5 @@ I'm a Senior Software Engineer based in Paris, France, who loves Virtual Reality
 <p>
   <a href="https://twitter.com/adrienjoly"><img src="https://img.shields.io/badge/-adrienjoly-100000?style=flat&logo=twitter&logoColor=blue"></a>
   <a href="https://linkedin.com/in/adrienjoly"><img src="https://img.shields.io/badge/-adrienjoly-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adrien.joly@shodo.io"><img src="https://img.shields.io/badge/-adrien.joly%40shodo.io-100000?style=flat&logo=gmail&logoColor=red"/></a>
 </p>
