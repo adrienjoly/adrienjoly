@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Adrien!
 
-I'm a Senior Software Engineer based in Paris, France, who loves Virtual Reality (VR), Education and Music.
+I'm a Software Engineer based in Paris, France, who loves Virtual Reality (VR), Education and Music.
 
 ### 👨🏻‍💻 About Me
 
-- 🤝 I'm available to join your team(s) as a Tech Coach and/or developer. More info: [in English](https://adrienjoly.com/talks/pro) / [in French](https://adrienjoly.com/talks/pro/fr).
-- 🛠️ Between my coaching sessions, I maintain several open source projects, including [Openwhyd](https://openwhyd.org): a music sharing platform made with Node.js in 2012.
-- 🎓 I love sharing what I learn, [in articles](https://adrienjoly.com/posts), [talks](https://adrienjoly.com/talks) and [on Twitter/X](https://twitter.com/adrienjoly).
-- 🥁 I also play drums in two music bands: [Harissa and Rag Dolls](https://adrienjoly.com/music).
+- 💼 I'm building software to help software engineers fix their software.
+- 🛠️ I've maintained several open source projects, including [Openwhyd](https://openwhyd.org): a music sharing platform made with Node.js in 2012.
+- 🎓 I love sharing what I learn, [in articles](https://adrienjoly.com/posts), [talks](https://adrienjoly.com/talks), [on Bluesky](https://bsky.app/profile/adrienjoly.com) and [on Twitter/X](https://twitter.com/adrienjoly).
+- 🥁 I also play drums in [several music bands](https://adrienjoly.com/music), including [Harissa](https://www.facebook.com/harissaquartet/).
 
 ### 📚 Favorite Books
 
