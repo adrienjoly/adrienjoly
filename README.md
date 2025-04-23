@@ -4,8 +4,7 @@ I'm a Software Engineer based in Paris, France, who loves Virtual Reality (VR), 
 
 ### 👨🏻‍💻 About Me
 
-- 💼 I'm building software to help software engineers fix their software.
-- 🛠️ I've maintained several open source projects, including [Openwhyd](https://openwhyd.org): a music sharing platform made with Node.js in 2012.
+- 💼 I'm a software engineer who has maintained several open source projects, including [Openwhyd](https://openwhyd.org): a music sharing platform made with Node.js in 2012.
 - 🎓 I love sharing what I learn, [in articles](https://adrienjoly.com/posts), [talks](https://adrienjoly.com/talks), [on Bluesky](https://bsky.app/profile/adrienjoly.com) and [on Twitter/X](https://twitter.com/adrienjoly).
 - 🥁 I also play drums in [several music bands](https://adrienjoly.com/music), including [Harissa](https://www.facebook.com/harissaquartet/).
 
@@ -28,7 +27,7 @@ I'm a Software Engineer based in Paris, France, who loves Virtual Reality (VR), 
 ### 🤝🏻 Connect with Me
 
 <p>
-  <a href="https://twitter.com/adrienjoly"><img src="https://img.shields.io/badge/-adrienjoly-100000?style=flat&logo=twitter&logoColor=blue"></a>
+  <a href="https://bsky.app/profile/adrienjoly.com"><img src="https://img.shields.io/badge/adrienjoly.com-0285FF?logo=bluesky&logoColor=fff&style=flat"></a>
   <a href="https://linkedin.com/in/adrienjoly"><img src="https://img.shields.io/badge/-adrienjoly-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:adrien.joly@shodo.io"><img src="https://img.shields.io/badge/-adrien.joly%40shodo.io-100000?style=flat&logo=gmail&logoColor=red"/></a>
 </p>
